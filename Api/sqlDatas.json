@@ -1,6 +1,5 @@
 {
-    "host" : "localhost",
-    "database" : "bank",
     "user" : "root",
+    "host" : "localhost",
     "password" : ""
 }

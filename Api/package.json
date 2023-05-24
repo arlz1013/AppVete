@@ -10,7 +10,6 @@
   "version": "1.0.0",
   "description": "Api Modules For Conneection with BaseData",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arlz1013/AppVete.git"

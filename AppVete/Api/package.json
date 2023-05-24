@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "beta-api",
+  "version": "1.0.0",
+  "description": "Api Modules For Conneection with BaseData",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlz1013/AppVete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlz1013/AppVete/issues"
+  },
+  "homepage": "https://github.com/arlz1013/AppVete#readme"
+}

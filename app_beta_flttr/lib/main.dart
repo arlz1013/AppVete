@@ -44,7 +44,7 @@ class _RootPageState extends State<RootPage> {
               icon: Icon(Icons.notifications_active), label: "Notifications"),
           NavigationDestination(icon: Icon(Icons.person), label: "Profile"),
         ],
-        onDestinationSelected: (int index) => {setState(() => {})},
+        onDestinationSelected: (int index) {},
       ),
     );
   }
